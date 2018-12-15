@@ -15,7 +15,7 @@
     
 ### How to use it?
 
-  Open the command window with admin privilege and execute the following command `python updateSystemClockWithGPS.py`.
+  Open the command window with admin privilege and execute the following command `python updateSystemClockWithGPS_win10.py`.
     
     
 ### Procedure of the application:
