@@ -44,3 +44,9 @@
     3. Setting the system clock with win32api SetSystemTime funtion.
     
        3.1. Look for validity of GPS data and if so then only set the time.
+       
+ ### Demo:
+ 
+   Look at the result how the date and time is getting synchronized?
+   
+   ![output](https://user-images.githubusercontent.com/43936948/50044780-d76c0180-00ae-11e9-8c91-20c4d365f7a5.gif)
