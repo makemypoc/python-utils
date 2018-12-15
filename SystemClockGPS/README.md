@@ -13,6 +13,8 @@
     - USB to TTL Serial Cable
     - Laptop that runs Windows 10
     
+   ![img_20181215_205018](https://user-images.githubusercontent.com/43936948/50044668-fec1cf00-00ac-11e9-8109-348c46026e3d.jpg)
+    
 ### How to use it?
 
   Open the command window with admin privilege and execute the following command `python updateSystemClockWithGPS_win10.py`.
